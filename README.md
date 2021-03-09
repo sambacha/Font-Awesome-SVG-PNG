@@ -1,6 +1,16 @@
 Font-Awesome-SVG-PNG
 ====================
 
+### Updated Fork
+
+in your `package.json` file, do:
+
+```bash
+   "font-awesome-svg-png": "git+https://github.com/sambacha/Font-Awesome-SVG-PNG",
+```
+
+
+
 This project provides a Font-Awesome build split to individual SVG and PNG files of different sizes along with Node.JS based generator to generate any other colors and sizes combinations.
 
 ## What is Font-Awesome?
